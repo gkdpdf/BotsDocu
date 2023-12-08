@@ -8,7 +8,7 @@ import matplotlib.pyplot as plt
 from pymongo.mongo_client import MongoClient
 
 #replace username and pwd from mongodb atlas
-uri = "mongodb+srv://algob:algob@cluster0.ay8hame.mongodb.net/?retryWrites=true&w=majority"
+uri = "mongodb+srv://readb:readb@cluster0.ay8hame.mongodb.net/?retryWrites=true&w=majority"
 
 
 # Create a new client and connect to the server
